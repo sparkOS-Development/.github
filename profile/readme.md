@@ -1,5 +1,7 @@
 # Spark Linux
 
+![Spark Logo](https://github.com/sparkOS-Development/bug-report/blob/main/sparklogo.png?raw=true)
+
 A minimal, clean, and fast Linux experience.
 
 Spark is your next OS — based on Debian and crafted to be elegant, reliable, and distraction-free.
