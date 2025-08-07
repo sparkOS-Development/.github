@@ -43,7 +43,7 @@ From indie gems to esports titles, Spark supports **Proton-GE**, **Bottles**, an
 
 ## 🤝 Get involved
 
-Everything we do is open source — and you can help shape Spark.
+Everything we do is open source* — and you can help shape Spark.
 
 Whether you're a developer, designer, tester, or just passionate about clean Linux experiences, there’s a way to contribute:
 
@@ -56,3 +56,6 @@ Your contribution, big or small, keeps Spark alive and evolving.
 
 > Ready to dive in?  
 > Check the [official website](https://sparklinux.my.canva.site/) and start contributing today.
+
+
+*use Xubuntu as a base, so source code will be 99% on Xubuntu
