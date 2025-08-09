@@ -60,5 +60,4 @@ Your contribution, big or small, keeps Spark alive and evolving.
 > Check the [official website](https://sparklinux.my.canva.site/) and start contributing today.
 
 
-*use Xubuntu as a base, so source code will be 99% on Xubuntu
-https://github.com/xubuntu
+*use Debian & LXQt as a base, so source code will be 99% on Debian and LXQt
